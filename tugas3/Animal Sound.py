@@ -1,3 +1,6 @@
+# Nama  : Gempar Priadi
+# Kelas : R1/T21A
+# Nim   : 210511036
 from playsound import *
 
 
